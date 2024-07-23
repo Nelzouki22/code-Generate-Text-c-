@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code Generate Text c#", "code Generate Text c#.csproj", "{C42859C3-7ADA-41EA-A72A-AE93D07B1FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C42859C3-7ADA-41EA-A72A-AE93D07B1FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42859C3-7ADA-41EA-A72A-AE93D07B1FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42859C3-7ADA-41EA-A72A-AE93D07B1FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42859C3-7ADA-41EA-A72A-AE93D07B1FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAACA218-C238-48A7-9CD7-A092AFFB011F}
+	EndGlobalSection
+EndGlobal
